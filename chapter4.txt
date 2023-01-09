@@ -1,0 +1,2 @@
+<h1-6>Example heading<span class="badge bg-primary">New</span></h1-6>
+<div class="alert alert-primary" role="alert"><strong>Warning!</strong><a href="#" class="alert-link">Click Here</a></div>
